@@ -1,6 +1,6 @@
 public class Hola {
 	
-	private static String nombre = "Victorrr_easy_patch";
+	private static String nombre = "Plegue10";
 	
 	public static void main(String[] zz){
 
